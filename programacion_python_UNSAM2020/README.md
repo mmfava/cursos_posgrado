@@ -5,7 +5,7 @@
 
 *64 horas*
 
-* Clase 1
+* [Clase 1](https://github.com/mmfava/cursos_posgrado/tree/master/programacion_python_UNSAM2020/Clase_1)
 * Clase 2
 * Clase 3
 * Clase 4
