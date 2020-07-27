@@ -1,0 +1,21 @@
+## rebotes.py
+altura = 100
+salto = 3/5
+i = 0
+
+while i < 10:
+    i = i + 1
+    altura = altura * 3/5
+    print(round(altura, 4))
+    
+# Salidá:
+# 60.0
+# 36.0
+# 21.6
+# 12.96
+# 7.776
+# 4.6656
+# 2.7994
+# 1.6796
+# 1.0078
+# 0.6047
