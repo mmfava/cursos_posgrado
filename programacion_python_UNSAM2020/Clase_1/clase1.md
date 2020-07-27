@@ -20,20 +20,20 @@ while i < 10:
     altura = altura * 3/5
     print(round(altura, 4))
 ```
-\
+
 
 **Salida**:
-60.0
-36.0
-21.6
-12.96
-7.776
-4.6656
-2.7994
-1.6796
-1.0078
-0.6047
-\
+60.0 \
+36.0 \
+21.6 \
+12.96 \
+7.776 \
+4.6656 \
+2.7994 \
+1.6796 \
+1.0078 \
+0.6047 \
+
 
 ### Ejercicio 1.11: [Bonus](https://github.com/python-unsam/UNSAM_2020c2_Python/blob/master/Notas/01_Introduccion/03_Numeros.md#ejercicio-111-bonus)
 ```{python}
