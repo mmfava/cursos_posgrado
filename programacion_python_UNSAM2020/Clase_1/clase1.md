@@ -95,7 +95,7 @@ Total pagado:  880074.1
 ### Ejercicio 1.13: [El volúmen de una esfera](https://github.com/python-unsam/UNSAM_2020c2_Python/blob/master/Notas/01_Introduccion/03_Numeros.md#ejercicio-113-el-vol%C3%BAmen-de-una-esfera)
 
 ```{python}
-# el volúmen de una esfera 
+## esfera.py 
 
 r = float(input("¿Cuál es el radio de tu esfera? "))
 pi = 3.1415926535897931
@@ -109,7 +109,8 @@ print('The volume of the sphere is: ',V)
 ### Ejercicio 1.18: [Geringoso rústico](https://github.com/python-unsam/UNSAM_2020c2_Python/blob/master/Notas/01_Introduccion/04_Strings.md#ejercicio-118-geringoso-r%C3%BAstico)
 
 ```{python}
-## ejercicio 1.18
+
+## geringoso.py
 cadena = 'Geringoso'
 capadepenapa = ''
 for c in cadena:  
@@ -133,7 +134,7 @@ print(capadepenapa)
 ### Ejercicio 1.29: [Traductor (rústico) al lenguaje inclusivo](https://github.com/python-unsam/UNSAM_2020c2_Python/blob/master/Notas/01_Introduccion/05_Listas.md#ejercicio-129-traductor-r%C3%BAstico-al-lenguaje-inclusivo)
 
 ```{python}
-## 1
+## inclusive.py
 frase = input('escribe la oración aquí: ')
 
 palabras = frase.split()
