@@ -7,9 +7,12 @@
 
 **Duración**: 11 al 16 de marzo de 2019 (44 h).
 <br />
+
 **Rendimiento**: 100% (10/10). 
 <br />
+
 **Evaluación**: presentación oral y trabajo escrito.
 <br />
+
 <3
 
