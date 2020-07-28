@@ -8,4 +8,6 @@
 
 **Duração**: 05/06/2019 - 03/12/209 (30 h). <br />
 
-**Rendimento**: A (90 - 100%)
+**Rendimento**: A (90 - 100%). <br />
+
+**Avaliação**: Apresentação oral e escrita. <br />
