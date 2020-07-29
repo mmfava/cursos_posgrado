@@ -84,7 +84,7 @@ print("Meses", mes - 1)
 309 809.2124311010998 877389.9899999964 \
 310 809.2124311010998 877389.9899999964 \ 
 Total pagado:  878203.0 \
-Meses 310
+Meses 310 \
 
 ### Ejercicio 1.13: [El volúmen de una esfera](https://github.com/python-unsam/UNSAM_2020c2_Python/blob/master/Notas/01_Introduccion/03_Numeros.md#ejercicio-113-el-vol%C3%BAmen-de-una-esfera)
 
